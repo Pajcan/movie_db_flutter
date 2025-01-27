@@ -146,3 +146,5 @@ macos
 
 # android app bundle builds
 android/app/**/release/
+
+*.module.dart
